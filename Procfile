@@ -1,1 +1,1 @@
-web: gunicorn Web:app
+web: gunicorn WorldCup:app
