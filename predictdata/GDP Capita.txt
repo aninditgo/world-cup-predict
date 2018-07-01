@@ -1,0 +1,28 @@
+GDP Capita
+saudi arabia,russia,uruguay,egypt,
+spain,portugal,morocco,iran,
+france,australia,denmark,peru,
+iceland,argentina,croatia,nigeria,
+switzerland,costa rica,brazil,serbia,
+sweden,germany,south korea,mexico,
+england,belgium,panama,tunisia,
+japan,poland,colombia,senegal,
+saudi arabia,portugal,
+france,argentina,
+switzerland,germany,
+england,poland,
+russia,spain,
+australia,iceland,
+costa rica,sweden,
+belgium,japan,
+saudi arabia,france,
+switzerland,england,
+spain,iceland,
+sweden,belgium,
+france,switzerland,
+iceland,sweden,
+switzerland,iceland,
+switzerland
+saudi arabia saudia arabia saudi arabai
+nigeria nigerai
+iceland iceand

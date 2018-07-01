@@ -1,0 +1,28 @@
+Michael
+uruguay,egypt,russia,saudi arabia,
+spain,portugal,iran,morocco,
+france,denmark,peru,australia,
+argentina,croatia,iceland,nigeria,
+brazil,serbia,switzerland,costa rica,
+germany,mexico,sweden,south korea,
+belgium,england,panama,tunisia,
+colombia,senegal,poland,japan,
+uruguay,portugal,
+france,croatia,
+brazil,mexico,
+belgium,senegal,
+egypt,spain,
+denmark,argentina,
+serbia,germany,
+england,colombia,
+uruguay,france,
+brazil,belgium,
+egypt,argentina,
+germany,colombia,
+france,brazil,
+argentina,germany,
+brazil,germany,
+brazil
+morocco morroco
+france portugal
+nAn 

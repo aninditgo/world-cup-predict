@@ -1,0 +1,27 @@
+Will - Meme
+russia,saudi arabia,uruguay,egypt,
+portugal,morocco,spain,iran,
+denmark,australia,france,peru,
+nigeria,argentina,iceland,croatia,
+brazil,costa rica,switzerland,serbia,
+south korea,germany,mexico,sweden,
+tunisia,panama,belgium,england,
+senegal,poland,japan,colombia,
+russia,morocco,
+denmark,argentina,
+brazil,germany,
+tunisia,poland,
+saudi arabia,portugal,
+australia,nigeria,
+costa rica,south korea,
+panama,senegal,
+russia,denmark,
+germany,tunisia,
+portugal,nigeria,
+south korea,senegal,
+russia,tunisia,
+nigeria,senegal,
+russia,nigeria,
+russia
+croatia coratia
+germany germany 7-1

@@ -1,0 +1,27 @@
+Liam - half serious
+uruguay,egypt,russia,saudi arabia,
+portugal,iran,spain,morocco,
+france,peru,denmark,australia,
+argentina,iceland,croatia,nigeria,
+serbia,brazil,switzerland,costa rica,
+germany,south korea,mexico,sweden,
+belgium,tunisia,panama,england,
+colombia,senegal,japan,poland,
+uruguay,iran,
+france,iceland,
+serbia,south korea,
+belgium,senegal,
+egypt,portugal,
+peru,argentina,
+brazil,germany,
+tunisia,colombia,
+uruguay,iceland,
+serbia,belgium,
+portugal,argentina,
+germany,tunisia,
+uruguay,belgium,
+argentina,germany,
+uruguay,argentina,
+uruguay
+australia austrailia
+uruguay uruguay, 4-2

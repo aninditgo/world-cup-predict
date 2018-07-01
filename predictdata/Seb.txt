@@ -1,0 +1,29 @@
+Seb
+uruguay,egypt,russia,saudi arabia,
+spain,portugal,morocco,iran,
+france,peru,denmark,australia,
+argentina,croatia,iceland,nigeria,
+brazil,switzerland,costa rica,serbia,
+germany,mexico,sweden,south korea,
+belgium,england,panama,tunisia,
+colombia,poland,senegal,japan,
+uruguay,portugal,
+france,croatia,
+brazil,mexico,
+belgium,poland,
+egypt,spain,
+peru,argentina,
+switzerland,germany,
+england,colombia,
+uruguay,france,
+brazil,belgium,
+spain,argentina,
+germany,england,
+france,belgium,
+spain,germany,
+france,germany,
+france
+egypt egypy
+morocco morroco
+tunisia tusnisia
+nAn 

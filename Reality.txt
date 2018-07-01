@@ -1,0 +1,28 @@
+Reality
+uruguay,russia,saudi arabia,egypt,
+spain,portugal,iran,morocco,
+france,denmark,peru,australia,
+croatia,argentina,nigeria,iceland,
+brazil,switzerland,serbia,costa rica,
+sweden,mexico,south korea,germany,
+belgium,england,tunisia,panama,
+colombia,japan,senegal,poland,
+uruguay,portugal,
+france,argentina,
+brazil,mexico,
+belgium,japan,
+russia,spain,
+denmark,croatia,
+switzerland,sweden,
+england,colombia,
+uruguay,france,
+nAn,nAn,
+russia,nAn,
+nAn,nAn,
+nAn,nAn,
+nAn,nAn,
+nAn,nAn,
+nAn
+morocco morocoo
+croatia coratia
+nAn ? ? ? ? ? ? ? ? ? ? ? ?

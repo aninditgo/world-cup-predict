@@ -1,0 +1,27 @@
+William
+russia,uruguay,egypt,saudi arabia,
+spain,portugal,morocco,iran,
+france,denmark,peru,australia,
+argentina,croatia,nigeria,iceland,
+brazil,serbia,switzerland,costa rica,
+germany,sweden,mexico,south korea,
+england,belgium,panama,tunisia,
+colombia,poland,japan,senegal,
+russia,portugal,
+france,croatia,
+brazil,sweden,
+england,poland,
+uruguay,spain,
+denmark,argentina,
+serbia,germany,
+belgium,colombia,
+portugal,france,
+brazil,poland,
+spain,argentina,
+germany,belgium,
+france,brazil,
+spain,germany,
+brazil,germany,
+germany
+australia austrailia
+germany germany 7-1

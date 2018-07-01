@@ -1,0 +1,28 @@
+Julia
+uruguay,egypt,russia,saudi arabia,
+spain,portugal,morocco,iran,
+france,peru,denmark,australia,
+argentina,croatia,iceland,nigeria,
+brazil,switzerland,costa rica,serbia,
+germany,mexico,sweden,south korea,
+england,belgium,panama,tunisia,
+colombia,poland,senegal,japan,
+uruguay,portugal,
+france,croatia,
+brazil,mexico,
+england,poland,
+egypt,spain,
+peru,argentina,
+switzerland,germany,
+belgium,colombia,
+portugal,france,
+brazil,england,
+spain,argentina,
+germany,belgium,
+france,brazil,
+argentina,germany,
+france,germany,
+france
+egypt egypy
+morocco morroco
+tunisia tusnisia

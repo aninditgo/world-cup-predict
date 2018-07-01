@@ -1,0 +1,27 @@
+Neil
+uruguay,russia,egypt,saudi arabia,
+portugal,spain,morocco,iran,
+peru,denmark,france,australia,
+argentina,croatia,iceland,nigeria,
+brazil,switzerland,costa rica,serbia,
+germany,mexico,sweden,south korea,
+belgium,england,panama,tunisia,
+colombia,poland,japan,senegal,
+uruguay,spain,
+peru,croatia,
+brazil,mexico,
+belgium,poland,
+russia,portugal,
+denmark,argentina,
+switzerland,germany,
+england,colombia,
+spain,peru,
+brazil,belgium,
+russia,argentina,
+germany,colombia,
+spain,brazil,
+argentina,germany,
+spain,argentina,
+argentina
+uruguay uraguay
+argentina argentia argentia argentia

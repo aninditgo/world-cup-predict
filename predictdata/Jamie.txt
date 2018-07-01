@@ -1,0 +1,27 @@
+Jamie
+russia,uruguay,saudi arabia,egypt,
+spain,portugal,iran,morocco,
+france,peru,denmark,australia,
+argentina,nigeria,croatia,iceland,
+brazil,costa rica,switzerland,serbia,
+germany,mexico,sweden,south korea,
+england,panama,belgium,tunisia,
+japan,colombia,senegal,poland,
+russia,portugal,
+france,nigeria,
+brazil,mexico,
+england,colombia,
+uruguay,spain,
+peru,argentina,
+costa rica,germany,
+panama,japan,
+portugal,france,
+brazil,colombia,
+spain,argentina,
+germany,japan,
+portugal,brazil,
+spain,germany,
+portugal,spain,
+portugal
+sweden sweeden
+portugal portugal 🇵🇹

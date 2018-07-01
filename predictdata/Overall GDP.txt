@@ -1,0 +1,27 @@
+Overall GDP
+russia,saudi arabia,egypt,uruguay,
+spain,iran,portugal,morocco,
+france,australia,denmark,peru,
+argentina,nigeria,croatia,iceland,
+brazil,switzerland,serbia,costa rica,
+germany,south korea,mexico,sweden,
+england,belgium,panama,tunisia,
+japan,poland,colombia,senegal,
+russia,iran,
+france,nigeria,
+brazil,south korea,
+england,poland,
+saudi arabia,spain,
+australia,argentina,
+switzerland,germany,
+belgium,japan,
+russia,france,
+brazil,england,
+spain,australia,
+germany,japan,
+france,england,
+spain,japan,
+france,japan,
+japan
+switzerland switzrerland
+belgium beglium
