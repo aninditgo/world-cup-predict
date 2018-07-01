@@ -1,6 +1,4 @@
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-from Prediction import *
+from Prediction import Prediction
 from flask import Flask, render_template
 from functools import reduce
 import os
@@ -137,24 +135,19 @@ def scoresheet(id):
     data_obj = data_dict[int(id)]
     return render_template('individual.html', tot = data_obj[0], name = data_obj[1], pot = data_obj[2], groups = data_obj[3], brackets = data_obj[4], final=data_obj[5])
 
+
+reality = Prediction(filename = 'Reality.txt')
+eliminated_countries = determine_eliminated_countries(reality)
+id = 1
+for filename in os.listdir("predictdata"):
+    if ('.txt' in filename):
+        cur_predict = Prediction(filename='predictdata/'+filename)
+        cur_data = create_for(cur_predict, reality, eliminated_countries)
+        data_dict[id] = cur_data
+        name_id[cur_data[1].strip()] = str(id)
+        data.append(cur_data)
+        id+=1
+
+data.sort(reverse = True)
 if __name__ == "__main__":
-    scope = ['https://spreadsheets.google.com/feeds',
-             'https://www.googleapis.com/auth/drive']
-    credentials = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', scope)
-    gc = gspread.authorize(credentials)
-    doc = gc.open("World Cup Brackets (Collection)")
-    reality = Prediction(sheet = doc.get_worksheet(0))
-    eliminated_countries = determine_eliminated_countries(reality)
-    id = 1
-    for filename in os.listdir("predictdata"):
-        if ('.txt' in filename):
-            cur_predict = Prediction(filename='predictdata/'+filename)
-            cur_data = create_for(cur_predict, reality, eliminated_countries)
-            data_dict[id] = cur_data
-            name_id[cur_data[1].strip()] = str(id)
-            data.append(cur_data)
-            id+=1
-
-
-    data.sort(reverse = True)
     app.run()
