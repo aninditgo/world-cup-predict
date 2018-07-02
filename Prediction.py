@@ -125,7 +125,7 @@ class Prediction:
                     for i in range(2):
                         self.ro2[i] = line.split(",")[i]
                 elif count == 24:
-                    self.winner = line
+                    self.winner = line.strip()
                 elif count>24:
                     words = line.split(",")
                     self.spelling_errors[line[0]] = line[1:]
