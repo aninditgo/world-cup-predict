@@ -1,5 +1,5 @@
 Seb
-uruguay,egypt,russia,saudi arabia,
+uruguay,russia,egypt,saudi arabia,
 spain,portugal,morocco,iran,
 france,peru,denmark,australia,
 argentina,croatia,iceland,nigeria,
@@ -11,7 +11,7 @@ uruguay,portugal,
 france,croatia,
 brazil,mexico,
 belgium,poland,
-egypt,spain,
+russia,spain,
 peru,argentina,
 switzerland,germany,
 england,colombia,
@@ -26,4 +26,4 @@ france
 egypt egypy
 morocco morroco
 tunisia tusnisia
-nAn 
+nAn
