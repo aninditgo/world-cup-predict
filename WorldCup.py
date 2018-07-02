@@ -87,19 +87,19 @@ def create_for(predicted, reality, eliminated_countries):
     def r(x,y):
         return x+y
     s_data, s_score, s_pot = combine_last_x_with_reality("Predicted Ro16:", reduce(r,predicted.ro16), reduce(r, reality.ro16), eliminated_countries, 2)
-    q_data, q_score, q_pot = combine_last_x_with_reality("Predicted Ro8:", reduce(r,predicted.ro8), reduce(r, reality.ro8), eliminated_countries, 4)
-    h_data, h_score, h_pot = combine_last_x_with_reality("Predicted Semi:", reduce(r,predicted.ro4), reduce(r, reality.ro4), eliminated_countries, 12)
-    f_data, f_score, f_pot = combine_last_x_with_reality("Predicted Final/Winner:", predicted.ro2, reality.ro2, eliminated_countries, 16)
+    q_data, q_score, q_pot = combine_last_x_with_reality("Predicted Ro8:", reduce(r,predicted.ro8), reduce(r, reality.ro8), eliminated_countries, 5)
+    h_data, h_score, h_pot = combine_last_x_with_reality("Predicted Semi:", reduce(r,predicted.ro4), reduce(r, reality.ro4), eliminated_countries, 7)
+    f_data, f_score, f_pot = combine_last_x_with_reality("Predicted Final/Winner:", predicted.ro2, reality.ro2, eliminated_countries, 12)
     f_data = f_data[:-1]
     f_data.append(["Predicted Winner: ", "-"])
     w_string, w_score, w_pot = '-', 0, 0
     if predicted.winner == reality.winner:
-        w_string = '+28'
-        w_score += 28
+        w_string = '+19'
+        w_score += 19
     elif predicted.winner in eliminated_countries:
         w_string = ''
     else:
-        w_pot +=28
+        w_pot +=19
     tot_score = group_score+s_score+q_score+h_score+f_score+w_score
     pot_score = tot_score + s_pot+q_pot+h_pot+f_pot+w_pot
     f_data.append([predicted.winner.title(), w_string])
