@@ -3,6 +3,7 @@ from flask import Flask, render_template
 from functools import reduce
 import os
 
+
 def determine_eliminated_countries(reality):
     eliminated_countries = set({})
     for group in reality.group_predictions:

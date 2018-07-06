@@ -19,7 +19,7 @@ uruguay,france,
 brazil,belgium,
 russia,croatia,
 sweden,england,
-nAn,nAn,
+france,nAn,
 nAn,nAn,
 nAn,nAn,
 nAn
