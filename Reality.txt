@@ -19,8 +19,8 @@ uruguay,france,
 brazil,belgium,
 russia,croatia,
 sweden,england,
-france,nAn,
-nAn,nAn,
+france,belgium,
+croatia,england,
 nAn,nAn,
 nAn
 morocco morocoo
